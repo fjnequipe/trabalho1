@@ -1,0 +1,10 @@
+br\edu\fjn\erp\trabalho2\cliente\Endereco_.class
+br\edu\fjn\erp\trabalho2\cliente\Cliente_.class
+br\edu\fjn\erp\trabalho2\cliente\Remedio_.class
+br\edu\fjn\erp\trabalho2\venda\Venda_.class
+br\edu\fjn\erp\trabalho2\repositorio\util\FabricaConexao.class
+br\edu\fjn\erp\trabalho2\cliente\Endereco.class
+br\edu\fjn\erp\trabalho2\cliente\Remedio.class
+br\edu\fjn\erp\trabalho2\cliente\Cliente.class
+br\edu\fjn\erp\trabalho2\controller\CustomerController.class
+br\edu\fjn\erp\trabalho2\venda\Venda.class
