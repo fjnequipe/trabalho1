@@ -1,6 +1,12 @@
-E:\FJN\PROGRAMAS\NetBeans\NetBeans-11.1\NetBeansProjects\trabalho2\src\main\java\br\edu\fjn\erp\trabalho2\cliente\Remedio.java
-E:\FJN\PROGRAMAS\NetBeans\NetBeans-11.1\NetBeansProjects\trabalho2\src\main\java\br\edu\fjn\erp\trabalho2\venda\Venda.java
-E:\FJN\PROGRAMAS\NetBeans\NetBeans-11.1\NetBeansProjects\trabalho2\src\main\java\br\edu\fjn\erp\trabalho2\controller\CustomerController.java
+E:\FJN\PROGRAMAS\NetBeans\NetBeans-11.1\NetBeansProjects\trabalho2\src\main\java\br\edu\fjn\erp\trabalho2\modelo\cliente\Cliente.java
+E:\FJN\PROGRAMAS\NetBeans\NetBeans-11.1\NetBeansProjects\trabalho2\src\main\java\br\edu\fjn\erp\trabalho2\modelo\cliente\Endereco.java
+E:\FJN\PROGRAMAS\NetBeans\NetBeans-11.1\NetBeansProjects\trabalho2\src\main\java\br\edu\fjn\erp\trabalho2\modelo\venda\Venda.java
+E:\FJN\PROGRAMAS\NetBeans\NetBeans-11.1\NetBeansProjects\trabalho2\src\main\java\br\edu\fjn\erp\trabalho2\repositorio\ProdutoRepositorio.java
+E:\FJN\PROGRAMAS\NetBeans\NetBeans-11.1\NetBeansProjects\trabalho2\src\main\java\br\edu\fjn\erp\trabalho2\controller\ClienteController.java
+E:\FJN\PROGRAMAS\NetBeans\NetBeans-11.1\NetBeansProjects\trabalho2\src\main\java\br\edu\fjn\erp\trabalho2\repositorio\EnderecoRepositorio.java
+E:\FJN\PROGRAMAS\NetBeans\NetBeans-11.1\NetBeansProjects\trabalho2\src\main\java\br\edu\fjn\erp\trabalho2\repositorio\VendaRepositorio.java
+E:\FJN\PROGRAMAS\NetBeans\NetBeans-11.1\NetBeansProjects\trabalho2\src\main\java\br\edu\fjn\erp\trabalho2\modelo\produto\Produto.java
+E:\FJN\PROGRAMAS\NetBeans\NetBeans-11.1\NetBeansProjects\trabalho2\src\main\java\br\edu\fjn\erp\trabalho2\controller\ProdutoController.java
+E:\FJN\PROGRAMAS\NetBeans\NetBeans-11.1\NetBeansProjects\trabalho2\src\main\java\br\edu\fjn\erp\trabalho2\repositorio\ClienteRepositorio.java
 E:\FJN\PROGRAMAS\NetBeans\NetBeans-11.1\NetBeansProjects\trabalho2\src\main\java\br\edu\fjn\erp\trabalho2\repositorio\util\FabricaConexao.java
-E:\FJN\PROGRAMAS\NetBeans\NetBeans-11.1\NetBeansProjects\trabalho2\src\main\java\br\edu\fjn\erp\trabalho2\cliente\Cliente.java
-E:\FJN\PROGRAMAS\NetBeans\NetBeans-11.1\NetBeansProjects\trabalho2\src\main\java\br\edu\fjn\erp\trabalho2\cliente\Endereco.java
+E:\FJN\PROGRAMAS\NetBeans\NetBeans-11.1\NetBeansProjects\trabalho2\src\main\java\br\edu\fjn\erp\trabalho2\controller\VendaController.java
